@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quangqq777123
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning at Open university
+- 🌱 I’m currently learning at HCMC Open university
 - Hope you enjoy !!! ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 <!---
